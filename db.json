@@ -1,0 +1,25 @@
+{
+  data: [
+    {
+      id: 1,
+      name: "Kousick Biswas",
+      class: 11,
+      due: 500,
+      paid: 1500
+    }
+    {
+      id: 2,
+      name: "Rahul Biswas",
+      class: 11,
+      due: 500,
+      paid: 1500
+    }
+    {
+      id: 3,
+      name: "Suman Biswas",
+      class: 11,
+      due: 500,
+      paid: 1500
+    }
+  ]
+}
